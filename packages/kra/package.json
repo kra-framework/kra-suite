@@ -1,0 +1,34 @@
+{
+  "name": "kra",
+  "version": "0.0.1",
+  "description": "The framework for full stack Koa and React Apps development",
+  "keywords": [
+    "koa",
+    "react",
+    "app",
+    "framework",
+    "full",
+    "stack"
+  ],
+  "author": "Maxim Andrews <maximandrews@users.noreply.github.com>",
+  "homepage": "http://kra.js.org",
+  "license": "MIT",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kra-framework/kra-suite.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/kra-framework/kra-suite/issues"
+  }
+}
