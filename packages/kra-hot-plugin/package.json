@@ -1,11 +1,11 @@
 {
-  "name": "kra-hotreload-plugin",
+  "name": "kra-hot-plugin",
   "version": "0.0.1",
   "description": "> TODO: description",
   "author": "Maxim Andrews <maximandrews@users.noreply.github.com>",
   "homepage": "https://github.com/kra-framework/kra-suite#readme",
   "license": "MIT",
-  "main": "lib/kra-hotreload-plugin.js",
+  "main": "lib/kra-hot-plugin.js",
   "directories": {
     "lib": "lib",
     "test": "__tests__"
