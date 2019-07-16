@@ -3,7 +3,7 @@
 </p>
 
 # KRA
-A cute birdy framework for full or half stack Koa and/or React Apps development
+A cute birdy framework for full or half stack Koa and/or React App development.
 
 At the moment framework is developed under generic name [setup-app](/maxim-andrews/setup-app-suite).
 
