@@ -5,6 +5,8 @@
 # KRA
 A cute birdy framework for full or half stack Koa and/or React Apps development
 
-At the moment framework is developed under generic name [setup-app](https://github.com/maxim-andrews/setup-app-suite).
+At the moment framework is developed under generic name [setup-app](/maxim-andrews/setup-app-suite).
 
-Framework is going to migrate to [KRA repo](https://github.com/kra-framework/kra-suite/) with a proper name shortly.
+Please, find demo app build with KRA at [Crap Jack repo](/maxim-andrews/crapjack) or play live [Crap Jack](https://crapjack.herokuapp.com/).
+
+Framework is going to migrate to [KRA repo](/kra-framework/kra-suite/) with a proper name shortly.
