@@ -4,3 +4,7 @@
 
 # KRA
 A cute birdy framework for full or half stack Koa and/or React Apps development
+
+At the moment framework is developed under generic name [setup-app](https://github.com/maxim-andrews/setup-app-suite).
+
+Framework is going to migrate shortly under to [KRA repo](https://github.com/kra-framework/kra-suite/) with a proper name.
