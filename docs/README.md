@@ -9,4 +9,4 @@ At the moment framework is developed under generic name [setup-app](http://githu
 
 Please, find demo app build with KRA at [Crap Jack repo](http://github.com/maxim-andrews/crapjack) or play live [Crap Jack](https://crapjack.herokuapp.com/).
 
-Framework is going to migrate to [KRA repo](/) with a proper name shortly.
+Framework is going to migrate to [KRA repo](/) with a proper name at [npmjs.com](https://www.npmjs.com/package/kra) shortly.
