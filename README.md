@@ -3,4 +3,4 @@
 </p>
 
 # kra-suite
-A cute birdy framework to develop full or half stack Koa and React Apps
+A cute birdy framework to develop full or half stack Koa and/or React Apps
